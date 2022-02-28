@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an anti-hierarchical divine in the countrey, to a member of the House of Commons. Concerning the bishops being restored to their votes in Parliament.</title>
+            <author>P. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92562</idno>
+            <idno type="STC">Wing S123</idno>
+            <idno type="STC">ESTC R13842</idno>
+            <idno type="EEBO-CITATION">43077591</idno>
+            <idno type="OCLC">ocm 43077591</idno>
+            <idno type="VID">151683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151683)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2272:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an anti-hierarchical divine in the countrey, to a member of the House of Commons. Concerning the bishops being restored to their votes in Parliament.</title>
+                  <author>P. S.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: P.S.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151683:1" rendition="simple:additions"/>
+            <p>A LETTER From an Anti-Hierarchical DIVINE In the Countrey, To a Member of the Houſe of COMMONS. Concerning the BISHOPS Being reſtored to their Votes in PARLIAMENT.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1661.</p>
+            <p>
+               <add>
+                  <abbr>Will</abbr> Boothby</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151683:2"/>
+            <pb n="1" facs="tcp:151683:2"/>
+            <head>
+               <figure>
+                  <figDesc>header containing a Tudor rose, a French fleur-de-lis, and a Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>A Letter from an Anti-Hierarchical Divine in the Countrey, to a Member of the Houſe of Commons, concerning the Biſhops be<g ref="char:EOLhyphen"/>ing reſtored to their Votes in Parliament.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T muſt needs ſeem ſtrange to you at the firſt ſight, to receive any thing from me in the behalf of thoſe Perſons, whom I have to bloud conſtantly oppo<g ref="char:EOLhyphen"/>ſed; and whom I yet think for all their unexpe<g ref="char:EOLhyphen"/>cted, and as they ſay, miraculous Reſtitution, to be neither <hi>Jure Divino,</hi> nor <hi>Jure Apoſtolico.</hi> Yet, conſidering that his Majeſty, in order to the ſupport and keeping up his own Intereſt in the State, as ſome conceive, hath intro<g ref="char:EOLhyphen"/>duced Biſhops again into the Church, to our no ſmall grief; who though at preſent they cannot exerciſe that arbitrary and unlimit<g ref="char:EOLhyphen"/>ed Power, by vertue of the High Commiſſion, as formerly, yet have Authority ſufficient, by the aſſiſtance of the pe<g ref="char:EOLhyphen"/>nal Laws, yet unrepealed, in all places, and by their large Royalties and ample Poſſeſſions in many places, to re-inforce (that, which all godly men juſtly enough decried formerly, as a ſoul-grieving Innovation, and little better than Popery it ſelf) a conformity to the (as we yet ſay) empty, and unſignificant
+<pb n="2" facs="tcp:151683:3"/>Ceremonies of their pretended Church: The very Thought of which (was it not for His Majeſties Gracious Declaration, and the Connivance of many honeſt and diſcreet Juſtices of the Peace, that are yet left in the Countrey) were ſufficient to make us de<g ref="char:EOLhyphen"/>ſpond of the comfortable enjoying of our neareſt and deareſt Re<g ref="char:EOLhyphen"/>lations. But then her's the Miſery, the King, as many ſay, can pardon, but for what concerns himſelf, according to that receiv<g ref="char:EOLhyphen"/>ed Maxim, <hi>The Legiſlater hath Authority to dispenſe with his own Laws for any Cauſe, provided, that no diſtinct Intereſt be prejudiced or injured;</hi> &amp; therefore he can reach no further in relation to the Non-reading the Book of Com. Prayer (a thing that we can never with any Credit or Reputation conform to) than the firſt time; for upon the ſecond Conviction, <note place="margin">
+                  <hi>Vid. Stat.</hi> be<g ref="char:EOLhyphen"/>fore the Com. Prayer.</note> the Patron may preſent, as if the Incumbent were already dead, and in that caſe it may eaſily be gueſſed, what moſt of us may expect; Neither can we hope for the Connivance of the Benchers long; for, as a little Leaven lea<g ref="char:EOLhyphen"/>vens the whole Maſſe, ſo one peeviſh perſon upon the Bench, is able to do us more hurt, than the whole number can do us good, &amp; of this, there are ſome experiences near us. It muſt therefore, <hi>Sir,</hi> from hence of neceſſity follow, that either we muſt be brought to a carnal Complyance, which will be a Spirit troubling of many precious Saints amongſt us, or elſe, as the leſſer evil, leave our Native Courtrey, and go to thoſe Protestant Churches, beyond the Seas, where we may have the free exerciſe of Religion in its Primitive and Virgin-Purity. Now <hi>Sir,</hi> the face of things, as you know, being thus, I ſhall humbly propoſe to your wiſer ſelf, a thing that may enable us to a more comfortable ſupport in a tranſmarine condition, if Providence ſhould ſo order it, or elſe to at home. You ſee then that Biſhops are reſtored to a power, (which I will not be poſitive in to determine they will exerciſe) to do hurt, it would not be amiſſe therefore, if the power whereby they may do good, <hi>viz</hi> their Pretences to a Third Eſtate, and ſo conſequently to a Vote in Parliament, were taken into ſeſona<g ref="char:EOLhyphen"/>ble and mature Conſideration. It's true, at the beginning of the War, the King was confidently cried up by us to be the Third Eſtate, which ſome of them undiſcreetly granted, thereby to make the King a co-ordinate Power, by which, to put the better,
+<pb n="3" facs="tcp:151683:3"/>Gloſſe upon our Arming, for the aſſerting of the Authority of the two Houſes againſt His; and indeed much might yet be ſaid, in juſtification of the Late War, had the King been ſo. But now, <hi>Sir,</hi> upon ſecond thoughts, that Opinion appears to be very in<g ref="char:EOLhyphen"/>congruous to the Fundamentals: For not only my Lord <hi>Cook</hi> ſaith, which is enough to confute any ſingle Authority, that the Biſhops are a third Eſtate, but the expreſs words of many Statutes are, that the three Eſtates of the Realm, are the Lords Spiritual, well be denied, but that the Biſhops are a Third Eſtate, and accor<g ref="char:EOLhyphen"/>ingly they have acted ſince <hi>Magna Charta,</hi> and in the <hi>Saxon</hi> times too, as many ſay: But the Stories of thoſe times being uncertain, as filled up with Monkiſh Tales, much reſembling the <hi>Theomachi,</hi> of the Giants before the <hi>Theban</hi> War, amongſt the <hi>Grecians,</hi> I ſhall wave, as not much material to the purpoſe. Well then, the Biſhops being an Eſtate, and likewiſe the Aſſent of all being as neceſſary too, as the <hi>Veult le Roy,</hi> to the compleating of an Act that ſhall be binding, againſt what may happen to Futurity, it muſt then follow, that it's requiſite for us, in order to our ſure and certain Peace, that they, as well as the other Lords, ſhould be reſtored to that which hath ſo long been their R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts; other<g ref="char:EOLhyphen"/>wiſe the Preſident, may, in time to come, be of d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngerous Con<g ref="char:EOLhyphen"/>ſequence; for by the ſame Rule, that the Lords Temporal and Commons, by the Royal Aſſent, excluded the Biſhops; may the Lords exclude the Commons; nay, more juſtly may the King ex<g ref="char:EOLhyphen"/>clued all, and after the manner of the <hi>Turkiſh</hi> and <hi>Ruſſian</hi> Empe<g ref="char:EOLhyphen"/>rors, reduce our bravely Conſtituted <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>narchical,</hi> into a <hi>Despo<g ref="char:EOLhyphen"/>tical</hi> Government. Miſtake me not all this while, for what I ſay, is not out of any reſpect to them, but to our ſelves: For we ſhall have as much, if not more advantage than any by their Reſtitution. For to ſay the Truth, at the beginning of the War, we were, you know, ſo tranſported with Zeal, of doing our Duty to God, as ſome holy men then thought, that we quite forgot our Allegiance to the Prince, and therefore we ſtand as much in need of a firm Act of Oblivion, in relation to the ſecure Enjoyment of the things of this Life, as of Gods Mercy, in order to the Fruition of a better. It will be therefore very unſafe for us, to have that Charter, under which we claim all that we have, or may pretend to, ſo ill forti<g ref="char:EOLhyphen"/>fied,
+<pb n="4" facs="tcp:151683:4"/>as by an Act that may be liable to a juſt Exception, as eve<g ref="char:EOLhyphen"/>ry Act muſt be, that is not ratified according to the Fundamental Conſtitutions of this Land: And who do you think can be well ſatisfied with ſo contingent a ſecurity, as you ſee all ſecurity is, without the Biſhops Aſſent? I know in Anſwer to this, it may be Objected, that there hath been ſeveral Acts of Parliament paſt, the Biſhops being abſent, the Authority of which was never yet diſputed, as, 24 <hi>Ed.</hi> 1.11. R. 2. and divers others, but then the Biſhops neither by force, nor any pretended Act or Order from the other Eſtates, were kept out: But they being then in ſubjection to the Scarlet Whore, were kept out by a Canon or Command from the See of <hi>Rome,</hi> or elſe were abſent upon Choyce, and therefore none of thoſe Examples can in reaſon be alledged, to vindicate the forcible excluſion of them. Beſides, it may deſerve ſome Conſideration, that the Act made 2 <hi>H.</hi> 4. <hi>Contra Haereticos, &amp; ex aſſenſu Magnatum &amp; aliorum Procerum,</hi> the Commons ei<g ref="char:EOLhyphen"/>ther Abſent, or excluded, was for that very reaſon long after, 25 <hi>H.</hi> 8. C. 14. repealed, as <hi>Bagſhaw</hi> ſayes in his Reading, whither I refer you. By this, you may ſee, <hi>Sir,</hi> that there is ſome poſſibi<g ref="char:EOLhyphen"/>lity of hazard, though many years after, in relying upon any Act that's not made by the conſent of the three Eſtates. All this conſidered, I ſhall propoſe this following, as the moſt convenient Expedient: Before you confirm the Act of Oblivion, let the Bi<g ref="char:EOLhyphen"/>ſhops be called in, that ſo there may be no juſt occaſion of Cavil for the future: otherwiſe thoſe men that will not bow the knee to <hi>Baal,</hi> that cannot conform to vain Habits and impertinent Ce<g ref="char:EOLhyphen"/>remonies, cannot make a convenient Sale of their Lands, to ena<g ref="char:EOLhyphen"/>ble to a Livelihood, amongſt the <hi>French</hi> or <hi>Helvetian</hi> Churches: To which, if they do not forſake their firſt Love, and make ſhip<g ref="char:EOLhyphen"/>wrack of their Faith, they muſt in reaſon be forc'd. For it's plain, if hereafter, the Act, for want of due Form be made null, all Eſtates that now are, or for many years ago were in our hands, will by the Letter of the Law be forfeited to the King, and we are not ſure always to have good Kings; but we are pretty ſure, that there will alwaies be ſuch Perſons about the Court, as will be willing enough for their own Concerns, to find a Flaw in that Act, or any elſe. Beſides, the Lawyers tell us, that no Obliga<g ref="char:EOLhyphen"/>tion can be binding, that's entred into <hi>per dureoſe</hi> or <hi>Minas:</hi> Well
+<pb n="5" facs="tcp:151683:4"/>then if at any time hereafter, a Prince ſhould happen among us, that hath a mind to quarrel with all Acts made ſince the excluſion of the Biſhops, and alledge, that his Predeceſſor <hi>Charles</hi> the Firſt was threatned and forced to aſſent to that Act; and therefore the Act null: we have reaſon to think, that there will be Law<g ref="char:EOLhyphen"/>yers enough found, to juſtifie any Authority, in a more unreaſo<g ref="char:EOLhyphen"/>nable thing, and ſo our Poſterity may hereafter be forced to buy their Lands at the King Price, if they have them: But leaſt I ex<g ref="char:EOLhyphen"/>ceed the length of a Letter, I ſhall conclude in this, that the total Abolition of the Hierarchy is not ſo neceſſary, in order to a through Reformation in point of Diſcipline, as the reſtitution of the Biſhops to their Votes in the Upper Houſe, and their Con<g ref="char:EOLhyphen"/>ſent to the Act of Amneſty, is to the freeing of us from thoſe Jealouſies and Fears that otherwiſe may juſtly ariſe in relation to our Lives and Eſtates. Pardon me <hi>Sir,</hi> I am Yours,</p>
+            <closer>
+               <signed>P S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151683:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
